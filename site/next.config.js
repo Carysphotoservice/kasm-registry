@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'CPS',
     description: 'The unofficial store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: ' https://Helmpupper.github.io/kasm-registry/',
+    listUrl: ' https://Carysphotoservice.github.io/kasm-registry/',
     contactUrl: 'https://github.com/Carysphotoservice/kasm-registry/issues',
   },
   reactStrictMode: true,
