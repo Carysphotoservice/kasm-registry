@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'CPS',
+    description: 'The unofficial store for Kasm supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: ' https://Helmpupper.github.io/kasm-registry/',
+    contactUrl: 'https://github.com/Carysphotoservice/kasm-registry/issues',
   },
   reactStrictMode: true,
   swcMinify: true,
